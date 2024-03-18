@@ -53,7 +53,7 @@ The Observer Cluster functions as the hub for data aggregation and analysis with
 
 The Observer Cluster can also host the [Fleet Manager](#key-components-of-fleet-within-the-observability-stack), providing an alternative option for users who prefer not to deploy the [Rancher Cluster Manager which integrates with Fleet](https://ranchermanager.docs.rancher.com/how-to-guides/new-user-guides/deploy-apps-across-clusters/fleet) for managing downstream clusters. 
 
-Futher details for integrating the Rancher Cluster Manager and Fleet are available in [Rancher Cluster Manager and Fleet Reference Architecture Guide](../catagory/reference-architecture/ranchercm).
+Futher details for integrating the Rancher Cluster Manager and Fleet are available in [Rancher Cluster Manager and Fleet Reference Architecture Guide](../catagory/how-to-guides/rancher-cluster-manager).
 
 ### Observee Cluster(s)
 

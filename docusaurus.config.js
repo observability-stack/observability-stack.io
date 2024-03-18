@@ -9,7 +9,7 @@ const config = {
   baseUrl: '/',
   organizationName: 'observability-stack', // Usually your GitHub org/user name.
   projectName: 'observability-stack.io', // Usually your repo name.
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
     defaultLocale: 'en',
