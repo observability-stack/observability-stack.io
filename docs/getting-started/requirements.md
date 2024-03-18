@@ -28,7 +28,7 @@ For a comprehensive understanding and guidance on deploying the Rancher Cluster 
 
 To explore the intricacies of Fleet and its role in the Observability Stack, visit the [best practices guide on Rancher](#hosting-rancher-cluster-manager).
 
-Futher details for integrating the Rancher Cluster Manager and Fleet are available in [Rancher Cluster Manager and Fleet Reference Architecture Guide](../catagory/reference-architecture/ranchercm).
+Futher details for integrating the Rancher Cluster Manager and Fleet are available in [Rancher Cluster Manager and Fleet Reference Architecture Guide](../catagory/how-to-guides/rancher-cluster-manager).
 
 ## Observer Cluster
 
