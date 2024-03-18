@@ -2,7 +2,8 @@
 sidebar_position: 1
 title: Glossary
 ---
-Let's dive into the key items that will be introduced in the Observability Stack in 20 minutes.
+
+In 20 minutes, we'll explore the the key features that will be introduced in the Observability Stack.
 
 ## Pillars of Observability (Stack)
 
