@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[109],{661:e=>{e.exports=JSON.parse('{"title":"Traces","slug":"/category/traces","permalink":"/category/traces","navigation":{"previous":{"title":"Fluentd","permalink":"/available-toolkit/logs/fluentd"},"next":{"title":"Jaeger","permalink":"/available-toolkit/traces/jaeger"}}}')}}]);

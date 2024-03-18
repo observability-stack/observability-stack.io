@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[768],{6691:e=>{e.exports=JSON.parse('{"title":"Logs","slug":"/category/logs","permalink":"/category/logs","navigation":{"previous":{"title":"Prometheus Operator","permalink":"/available-toolkit/metrics/prometheus-operator"},"next":{"title":"Opensearch","permalink":"/available-toolkit/logs/opensearch"}}}')}}]);

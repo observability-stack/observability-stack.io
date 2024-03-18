@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[92],{6748:t=>{t.exports=JSON.parse('{"title":"Metrics","slug":"/category/metrics","permalink":"/category/metrics","navigation":{"previous":{"title":"Available Toolkit","permalink":"/category/available-toolkit"},"next":{"title":"Thanos","permalink":"/available-toolkit/metrics/thanos"}}}')}}]);
