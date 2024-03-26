@@ -5,7 +5,7 @@ title: Introduction
 
 # What is Observability Stack?
 
-Observability Stack is an umbrella project, leveraging the open-source ecosystem to provide a platform independent, community-driven and flexible observability toolkit. It aims to serve as a central resource for administrators and developeres alike by providing design concepts, examples, how-to guides and reference architectures to navigate the complexities of observability tools.
+Observability Stack is an umbrella project, leveraging the open-source ecosystem to provide a platform independent, community-driven and flexible observability toolkit. It aims to serve as a central resource for administrators and developers alike by providing design concepts, examples, how-to guides and reference architectures to navigate the complexities of observability tools.
 
 <div style={{textAlign: 'center'}}>
 ![Observability Stack](./../static/img/observability-stack-intro.png)
