@@ -43,7 +43,7 @@ const config = {
         // Comment out or remove the blog link if not needed
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/observability-stack/observability-stack.io',
+          href: 'https://github.com/observability-stack/observability-stack',
           label: 'GitHub',
           position: 'right',
         },
