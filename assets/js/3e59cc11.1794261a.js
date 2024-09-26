@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[705],{6826:e=>{e.exports=JSON.parse('{"title":"GitOps","slug":"/category/gitops","permalink":"/category/gitops","navigation":{"previous":{"title":"OpenTelemetry","permalink":"/available-toolkit/traces/opentelemetry"},"next":{"title":"Fleet (by Rancher)","permalink":"/available-toolkit/gitops/fleet"}}}')}}]);
