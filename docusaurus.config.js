@@ -10,7 +10,11 @@ const config = {
   organizationName: 'observability-stack', // Usually your GitHub org/user name.
   projectName: 'observability-stack.io', // Usually your repo name.
   onBrokenLinks: 'ignore',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
