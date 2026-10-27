@@ -25,7 +25,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.10.2",
     "@docusaurus/types": "^3.10.2",
-    "webpack-dev-middleware": ">=5.3.4"
+    "webpack-dev-middleware": ">=8.3.0"
   },
   "browserslist": {
     "production": [
